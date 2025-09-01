@@ -1,0 +1,77 @@
+# ==================================
+# Python
+# ==================================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dll
+
+# Virtual envs
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==================================
+# Jupyter Notebooks
+# ==================================
+.ipynb_checkpoints/
+.jupyter/
+
+# Arquivos temporários de kernel
+*.json
+*.log
+
+# ==================================
+# Dados e resultados temporários
+# ==================================
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.db
+*.sqlite
+*.sqlite3
+
+# Pasta de datasets grandes
+data/
+datasets/
+.DS_Store
+
+# ==================================
+# Cache e builds
+# ==================================
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+__snapshots__/
+
+# ==================================
+# IDEs e configs locais
+# ==================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# ==================================
+# Outros
+# ==================================
+*.zip
+*.tar
+*.gz
+*.tgz
+.env
