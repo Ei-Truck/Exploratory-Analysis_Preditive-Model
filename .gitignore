@@ -31,8 +31,6 @@ venv.bak/
 # ==================================
 *.csv
 *.tsv
-*.xls
-*.xlsx
 *.parquet
 *.feather
 *.h5
