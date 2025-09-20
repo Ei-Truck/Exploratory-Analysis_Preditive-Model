@@ -32,3 +32,7 @@
 | `supplierID`                         | Código de identificação do fornecedor.                                |
 | `supplierNameCode`                   | Nome/código do fornecedor associado à entrega.                        |
 | `Material Shipped`                   | Material transportado (ex.: peças automotivas, etc.).                 |
+
+
+# LINK: 
+## [Dataset](https://www.kaggle.com/datasets/nicolemachado/transportation-and-logistics-tracking-dataset)
