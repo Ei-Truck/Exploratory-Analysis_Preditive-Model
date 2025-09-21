@@ -44,6 +44,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install papermill nbconvert nbformat
+          python -m ipykernel install --user --name=python3
 
       - name: Lint Notebooks
         run: |
