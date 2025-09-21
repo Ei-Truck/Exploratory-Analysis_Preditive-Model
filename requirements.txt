@@ -6,3 +6,5 @@ matplotlib
 plotly
 ipython
 kagglehub
+black
+nbqa
