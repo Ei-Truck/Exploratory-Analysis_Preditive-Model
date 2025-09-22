@@ -8,3 +8,4 @@ ipython
 kagglehub
 black
 nbqa
+scikit-learn
