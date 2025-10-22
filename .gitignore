@@ -29,10 +29,7 @@ venv.bak/
 # ==================================
 # Dados e resultados temporários
 # ==================================
-*.csv
 *.tsv
-*.xls
-*.xlsx
 *.parquet
 *.feather
 *.h5
